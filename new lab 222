@@ -1,0 +1,15 @@
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      string name = "Masato";
+      Console.WriteLine(name);
+      int number = 20;
+      Console.WriteLine(number);
+     }
+  }
+}
